@@ -5,7 +5,7 @@ import {getAll,getone,update,Add,Delete} from "./routes/handlers.js";
 import {fileURLToPath} from "url";
 
 var app = express();
-var port = process.env.PORT || 3002;
+var port = process.env.PORT || 3003;
 
 app.use(express.json());
 app.use(cors());

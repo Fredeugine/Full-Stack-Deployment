@@ -7,7 +7,7 @@ function Part(){
   })
 }
 function App() {
-  var API = 'https://full-stack-app123-4db8d74ae08f.herokuapp.com/api/items'
+  var API = 'http://localhost:3003/api/items/'
   const [results,setResults] =  useState()
   const inputRef = useRef()
   const id = 0

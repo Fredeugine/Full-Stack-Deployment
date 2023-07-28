@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18a713c9-1559-4f72-8e28-e088a8b6145d" name="Changes" comment="DONE">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
@@ -103,6 +104,9 @@
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/client/src/App.js" working-dir="$PROJECT_DIR$/client/src">
+      <method v="2" />
+    </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -111,16 +115,6 @@
       <command value="run" />
       <scripts>
         <script value="build" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="frontend" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="frontend" />
       </scripts>
       <node-interpreter value="project" />
       <envs />
@@ -168,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.index.js" />
         <item itemvalue="npm.build" />
+        <item itemvalue="Node.js.App.js" />
         <item itemvalue="npm.start (1)" />
         <item itemvalue="npm.start (2)" />
-        <item itemvalue="Node.js.index.js" />
-        <item itemvalue="npm.frontend" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +197,7 @@
       <workItem from="1690532766655" duration="8182000" />
       <workItem from="1690551389313" duration="2703000" />
       <workItem from="1690556705484" duration="2889000" />
+      <workItem from="1690559970620" duration="1242000" />
     </task>
     <task id="LOCAL-00001" summary="DONE">
       <option name="closed" value="true" />
@@ -284,7 +279,23 @@
       <option name="project" value="LOCAL" />
       <updated>1690558686077</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="DONE">
+      <option name="closed" value="true" />
+      <created>1690560117134</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690560117134</updated>
+    </task>
+    <task id="LOCAL-00012" summary="DONE">
+      <option name="closed" value="true" />
+      <created>1690560208049</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1690560208049</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
